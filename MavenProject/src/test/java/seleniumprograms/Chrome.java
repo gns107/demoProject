@@ -13,7 +13,7 @@ public class Chrome {
 		 driver.get("https://demoqa.com");
 		 Thread.sleep(3000);
 		 driver.quit();
-		 System.out.println("Execution complete");
+		 System.out.println("Execution complete.");
 		 
 		 }
 
